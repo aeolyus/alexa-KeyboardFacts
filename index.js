@@ -8,7 +8,21 @@ var SKILL_NAME = 'Keyboard Facts';
  * Array containing ice cream facts.
  */
 var FACTS = [
-	""
+	"Japanese keyboards have th shortest space keys",
+	"When you hit space bar, 600,000 people in the world did just the same",
+	"QWERTY is not the most efficient keyboard layout",
+	"Your keyboard may contain more germs than a toilet seat",
+	"The Scroll Lock key is supposed to lock page scrolling with arrow keys",
+	"The IBM model M keyboard is the father of modern day keyboards",
+	"The DVORAK keyboard is supposed to incorporate less finger movement for faster typing speeds and reduced repetitive strain injuries",
+	"Keyboard computers were computers that fit inside bulky keyboards such as the Commodore 64 and AMiga 500",
+	"The word typewriter can be typed using only top row on QWERTY keyboards",
+	"CTRL ALT DEL is a famous keyboard shortcut to soft reboot",
+	"The longest words to type with one hand is stewardesses for left hand and polyphony for the right hand using the QWERTY layout",
+	"The only keyboard monument i the world is for QWERTY and is located in the city of Yekaterinburg, Russa.",
+	"The most efficient keyboard lyout in the world is called Turkish F.",
+	"Every 10,000 words type is one mile travelled by the fingers",
+
 ];
 
 exports.handler = function(event, context, callback) {
